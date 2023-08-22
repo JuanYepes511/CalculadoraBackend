@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>Calculadora PHP</title>
+    <link rel="stylesheet" type="text/css" href="StyleCalculadora.css">
+
 </head>
 <body>
     <h2>Calculadora PHP</h2>
