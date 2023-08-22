@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Conversor de Moneda</title>
+    <link rel="stylesheet" type="text/css" href="StyleConversor.css">
 </head>
 <body>
     <h1>Conversor de Moneda</h1>
